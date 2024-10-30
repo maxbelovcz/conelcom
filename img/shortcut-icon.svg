@@ -1,0 +1,18 @@
+<svg width="146" height="146" viewBox="0 0 146 146" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="146" height="146" rx="14" fill="#39ABEF"/>
+<mask id="path-2-inside-1_114_43" fill="white">
+<rect x="52" y="32" width="62" height="62" rx="10"/>
+</mask>
+<rect x="52" y="32" width="62" height="62" rx="10" stroke="#39ABEF" stroke-width="24" mask="url(#path-2-inside-1_114_43)"/>
+<rect x="58" y="38" width="50" height="50" rx="5" stroke="white" stroke-width="10"/>
+<mask id="path-4-inside-2_114_43" fill="white">
+<rect x="32" y="52" width="62" height="62" rx="10"/>
+</mask>
+<rect x="32" y="52" width="62" height="62" rx="10" stroke="#39ABEF" stroke-width="24" mask="url(#path-4-inside-2_114_43)"/>
+<rect x="38" y="58" width="50" height="50" rx="5" stroke="white" stroke-width="10"/>
+<rect x="53" y="44" width="10" height="25" fill="white"/>
+<line x1="63.5" y1="52" x2="63.5" y2="72" stroke="white"/>
+<line x1="63.5" y1="52" x2="63.5" y2="72" stroke="#39ABEF"/>
+<line x1="52.5" y1="52" x2="52.5" y2="72" stroke="#39ABEF"/>
+<line x1="52.5" y1="52" x2="52.5" y2="72" stroke="#39ABEF"/>
+</svg>
